@@ -1,0 +1,7 @@
+.fname{
+    background-image:linear-gradient(to top,purple,aqua);
+}
+body{
+    display: flex;
+    
+}
